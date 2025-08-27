@@ -1,4 +1,4 @@
-# QuantumultX
+# QuantumultX 资源解析器
 > 纯自用，无规则，无维护，无更新
 
 仅以下项目可能会更新维护：    
